@@ -8,20 +8,26 @@ namespace Employee
 {
     public class EmployeeAttendance
     {
-        public static void checkatt()
+        public static int checkatt(int Employeee)
         {
-            Console.WriteLine("Program for checking Employee Present or not!!");
-            int Employee =1;
+           // Console.WriteLine("Program for checking Employee Present or not!!");
+            Employeee =1;
+            
+           
             Random random=new Random();
             int check=random.Next(2);
-            if (Employee == check)
+            if (Employeee == check)
             {
                 Console.WriteLine("\n employee is present");
+                
+
             }
             else
             {
                 Console.WriteLine("\n employee is absent");
             }
+        return Employeee;
+            
         }
     }
 }
