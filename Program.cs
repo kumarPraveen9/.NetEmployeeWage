@@ -10,7 +10,7 @@ namespace Emloyee
             Console.WriteLine("Welcome to Employee Wage Computation Program \n");
            
             Console.WriteLine("====================================================================");
-            SwitchCase.Cal_Switchwage();
+            MonthWage.Cal_Monthwage();
         }
     }
 }
