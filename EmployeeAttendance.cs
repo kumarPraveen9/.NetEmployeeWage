@@ -24,6 +24,7 @@
             {
                 Console.WriteLine("employee is absent");
             }
+            
             return check;
             
         }
