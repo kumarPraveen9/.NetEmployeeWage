@@ -10,7 +10,7 @@ namespace Emloyee
             Console.WriteLine("Welcome to Employee Wage Computation Program \n");
            
             Console.WriteLine("====================================================================");
-            MonthWage.Cal_Monthwage();
+            EmployeeLimitedWageCalculate.Cal_limitedwage();
         }
     }
 }
