@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Employee
 {
-    internal class RegularWage
+    public class RegularWage
     {
         public static void Cal_Rwage()
         {
