@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Employee
 {
-    internal class SwitchCase
+    public class SwitchCase
     {
         public static void Cal_Switchwage()
         {
