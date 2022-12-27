@@ -22,7 +22,7 @@
             }
             else
             {
-                Console.WriteLine("employee is absent");
+                Console.WriteLine("\n employee is absent");
             }
             
             return check;
