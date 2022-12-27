@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Employee
 {
-    internal class MonthWage
+    public class MonthWage
     {
         public static void Cal_Monthwage()
         {
