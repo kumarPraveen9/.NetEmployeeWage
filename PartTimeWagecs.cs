@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Employee
 {
-    internal class PartTimeWagecs
+    public class PartTimeWagecs
     {
 
         public static void Cal_Pwage()
