@@ -12,7 +12,7 @@ namespace Employee
         {
             Console.WriteLine("Program for Calculating Employee Wage !!");
             
-            int workingHours = 8;
+            int workingHours ;
             int Employeee = 1;
             int emphours = 0;
             int days = 1;
